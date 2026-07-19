@@ -1,0 +1,20 @@
+
+
+8 x H-Bridge with current measurement. 
+8 x High side ON/OFF driver with current measuremnt.
+
+144 PIN MCU
+CAN x 2
+3232 interface
+
+RGB LED x 1
+
+SGM82704 Quad Op-Amp x 3 = 12 Op-Amps
+SGM358 x 2 OP-AMP		 = 4 more op-amps
+
+In total, the board has 16 OP-AMPs
+
+Current sensing channel x 3
+
+Reverse polarity protection
+
